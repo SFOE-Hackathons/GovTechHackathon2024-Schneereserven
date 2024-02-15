@@ -10,7 +10,7 @@ Neben den Füllständen der Speicherseen sind die Schneemengen über den Speiche
 Für die Challenge verwenden wir:
 
 * [Standorte der Stauanlagen](https://opendata.swiss/de/dataset/elektrizitatsproduktionsanlagen)
-* Einzugsgebiete von Gewässern (Geodatenraum UVEK)
+* [Einzugsgebiete von Gewässern](/data/)
 * Schneewasseräquivalent Raster basierend auf Satellitenbildern und Bodenbeobachtungen. ([Snow Water - COSMOS | ExoLabs (gitbook.io)](https://exolabs-ch.gitbook.io/cosmos/snow-water))
 
 ### Objektif
