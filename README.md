@@ -13,15 +13,15 @@ Für die Challenge verwenden wir:
 * [Einzugsgebiete von Gewässern](/data/)
 * Schneewasseräquivalent Raster basierend auf Satellitenbildern und Bodenbeobachtungen. ([Snow Water - COSMOS | ExoLabs (gitbook.io)](https://exolabs-ch.gitbook.io/cosmos/snow-water))
 
-### Objektif
+### Ziel
 
 Das Ziel ist eine Machbarkeitsprüfung mit ein paar Anlagen zu machen. Falls erfolgreich kann die Methodik auf alle Anlagen skaliert werden und mittelfristig die Daten als OGD und im Energiedashboard publiziert werden (in welcher Aggregation ist noch abzuklären).
 
-### Outcomes
+### Resultate
 
 Neben den Füllständen der Speicherseen wären auch die Schneereserven oberhalb der Speicherseen bekannt. Damit stehen mehr Informationen für die Beurteilung der Versorgungssicherheit zur Verfügung. Der einfache Zugang zu diesen Daten bietet zudem einen Mehrwert für Forschung, Politik, Behörden und Stromwirtschaft.
 
-### Solutions
+### Ansatz
 
 Die Standorte der Speicherseen liegen als OGD vor. Die Einzugsgebiete der Speicherseen liegen als Polygone im UVEK Geodatenraum vor (1 Polygon pro Stauanlage).
 Die Schneewasseräquivalente liegen als 20mx20m Raster vor. Für jede Rasterzelle gibt es einen Wert. Die Idee ist nun alle Werte innerhalb des Polygons zu addieren. Das ergibt das Schneewasseräquivalent innerhalb eines Polygons.
