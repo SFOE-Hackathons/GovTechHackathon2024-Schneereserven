@@ -11,6 +11,8 @@ Für die Challenge verwenden wir:
 
 * [Standorte der Stauanlagen](https://opendata.swiss/de/dataset/stauanlagen-unter-bundesaufsicht)
 * [Einzugsgebiete von Gewässern](/data/)
+    - https://opendata.swiss/de/dataset/topographische-einzugsgebiete-der-schweizer-gewasser-teileinzugsgebiete-2km2
+    - https://opendata.swiss/de/dataset/topographische-einzugsgebiete-der-schweizer-gewasser-teileinzugsgebiete-40-km
 * Schneewasseräquivalent Raster basierend auf Satellitenbildern und Bodenbeobachtungen. ([Snow Water - COSMOS | ExoLabs (gitbook.io)](https://exolabs-ch.gitbook.io/cosmos/snow-water))
 
 ### Ziel
