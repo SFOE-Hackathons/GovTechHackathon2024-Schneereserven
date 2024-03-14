@@ -1,4 +1,4 @@
 **/*.tif
 **/*.DS_*
 /data
-!/data/einzugsgebiete.zip
+
