@@ -14,6 +14,7 @@ Für die Challenge verwenden wir:
     - https://opendata.swiss/de/dataset/topographische-einzugsgebiete-der-schweizer-gewasser-teileinzugsgebiete-2km2
     - https://opendata.swiss/de/dataset/topographische-einzugsgebiete-der-schweizer-gewasser-teileinzugsgebiete-40-km
 * Schneewasseräquivalent Raster basierend auf Satellitenbildern und Bodenbeobachtungen. ([Snow Water - COSMOS | ExoLabs (gitbook.io)](https://exolabs-ch.gitbook.io/cosmos/snow-water))
+* Für später bei Bedarf: [Zuleitungen](https://map.geo.admin.ch/?lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-grau&layers=ch.bafu.wasser-leitungen,ch.bafu.wasser-rueckgabe,ch.bafu.wasser-entnahme,ch.bafu.wasser-teileinzugsgebiete_2,ch.bafu.wasser-teileinzugsgebiete_40,ch.bafu.wasser-gebietsauslaesse&E=2678533.62&N=1150072.55&zoom=4.965948795623882&layers_opacity=1,1,1,0.75,1,1)
 
 ### Ziel
 
