@@ -21,6 +21,7 @@ import urllib
 import geojson
 import geopandas as gpd
 from shapely.geometry import shape, Polygon
+import requests
 
 x = "2664782.608032227"
 y = "1096804.3518066406"
@@ -31,7 +32,6 @@ api_url = "https://api3.geo.admin.ch/rest/services/all/MapServer/identify?geomet
 #gj = geojson.load(api_url)
 
 
-import requests
 r = requests.get(api_url)
 data = r.json()
 
