@@ -38,8 +38,8 @@ Falls der Ansatz funktioniert, werden wir die Methodik auf alle Anlagen skaliere
 
 Bundesamt für Energie BFE
 
+# Challenge Pitch:
+
 ![Schneereserven der Schweizer Stauanlagen](/utils/Folie1.PNG "Schneereserven der Schweizer Stauanlagen")
 ![Leitfragen](/utils/Folie2.PNG "Leitfragen")
 ![Ansatz](/utils/Folie3.PNG "Ansatz")
-
-# Challenge Pitch:
