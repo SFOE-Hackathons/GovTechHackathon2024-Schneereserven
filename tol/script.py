@@ -56,3 +56,5 @@ gdf = gpd.GeoDataFrame(geometry=geometries)
 # Speichern des GeoDataFrames als Shapefile
 gdf.to_file("einzugsgebiet.shp")
 
+
+
