@@ -10,6 +10,7 @@
 #     (not really a pretty solution but it allows to parallelize the operation
 #      we are in a hackathon after all right?)
 #   - directories for storage to exists (mainly data/raw and data/prep)
+#   - a dateranger pickle (that is, all dates that should be parsed)
 
 # activate venv
 source venv_snow_reserves/bin/activate
